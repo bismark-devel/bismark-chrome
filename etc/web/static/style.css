@@ -1,8 +1,8 @@
 body, html { 
   color: #000000;
   background: #ffffff;
-  padding-left: 6.5em;
-  padding-right:6.5em;
+  padding-left: .5em;
+  padding-right:.5em;
 }
 
 img {  
@@ -30,8 +30,8 @@ a:hover {
 body {
         font-family: arial, sans-serif ;
         background-color: #ffffff ;
-        font-size: 9pt ;
-        margin: 25
+        font-size: 14pt ;
+        margin: 8;
 }
 
 ul {
@@ -40,7 +40,7 @@ ul {
 }
 
 li {
-	padding-bottom: 5px
+	padding-bottom: 5px;
 }
 
 
@@ -59,8 +59,6 @@ DIV.traps a {
    color: #ffffff;
    visited: #ffffff;
 }
-
-
 
 
 a:visited { 
